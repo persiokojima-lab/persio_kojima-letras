@@ -1,0 +1,68 @@
+Título: “Diário de um Backend”
+Nome do autor: Pérsio Seiji Kojima
+Tipo de obra: Letra de música
+
+Letra:
+
+[Introdução]
+17 horas, sexta-feira, final de mês
+Se liga no corre...
+Miou o sistema...
+E o plantão tá tenso...
+
+[Estrofe 1]
+E aí meu parça
+Outro dia deu pau no site
+E eu aqui sem backup feito
+Ainda bem que foi tudo light
+
+[Estrofe 2]
+Se liga mano
+Porque rolou uns bug feio
+Bem na hora do deploy
+Virou um caos e desespero
+
+[Ponte]
+Agora nem vou mais codar...
+Pois a I. A. vem pra me salvar...
+
+[Refrão]
+Caiu a system (vixi!)
+Só pode ser as A. P. Is. (né não)
+Deu um bizu nos log e meteu commit
+Agora faz a fé pro hotfix
+
+[Instrumental]
+
+[Estrofe 3]
+E aí meu parça
+Outro dia deu pau no script
+E eu sem rollback pronto
+Só vendo o B.O. ser mais triste
+
+[Estrofe 4]
+Se liga mano
+Porque rolou uns phishing louco
+Nem deu alerta no firewall
+E os guarda ficando doido
+
+[Ponte]
+Agora nem vou mais codar...
+Pois a I. A. vem pra me salvar...
+
+[Refrão]
+Caiu a system (vixi!)
+Só pode ser as A. P. Is. (né não)
+Deu um bizu nos log e meteu commit
+Agora faz a fé pro hotfix
+
+[Refrão]
+Caiu a system (vixi!)
+Só pode ser as A. P. Is. (né não)
+Deu um bizu nos log e meteu commit
+Agora faz a fé pro hotfix
+
+Data de criação: Taubaté, 11 de agosto de 2026
+
+---
+Letra de autoria exclusiva de Pérsio Seiji Kojima (Persiolino), escrita sem uso de Inteligência Artificial. Uso de IA restrito apenas aos arranjos musicais.
